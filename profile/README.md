@@ -11,7 +11,7 @@ Here you can find my scripts, templates and anything I decide to add later.
 
 ## My projects
 
-- [XRAY](https://github.com/faqit/k8s-xray) — k8s config to create your own VLESS VPN cluster based on XRAY
+- [XRAY](https://github.com/faqit/k8s-vless) — k8s config to create your own VLESS VPN cluster based on XRAY
 - [FAQIT.TECH](https://www.faqit.tech) - Still in development
 
 ## Contact me:
