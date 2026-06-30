@@ -16,8 +16,6 @@ Here you can find my scripts, templates and anything I decide to add later.
 
 ## Contact me:
 
-- Email: feedback@gusqav.ru
 - LinkedIn: https://LinkedIn/in/xxx
-
 
 #### See ya! Again.
